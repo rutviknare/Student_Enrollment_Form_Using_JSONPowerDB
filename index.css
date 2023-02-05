@@ -1,0 +1,10 @@
+.bg-color {
+    background-color: lightblue;
+    font-family: times;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
