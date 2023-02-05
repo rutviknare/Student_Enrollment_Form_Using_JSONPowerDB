@@ -15,10 +15,11 @@
 - Web-services API - Can be used with any programming language that has support for HTTP.
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It helps developers in faster coding, in-turn reduces development cost.
+- - Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.!
 ---
 ### ScreenShot of Output
 
-- Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.![Screenshot (401)](https://user-images.githubusercontent.com/90822009/216814552-bba23cb9-17bd-4809-88a1-07ec98463527.png)
+[Screenshot (401)](https://user-images.githubusercontent.com/90822009/216814552-bba23cb9-17bd-4809-88a1-07ec98463527.png)
 ### Release History
 #### v0.0.0 (05/02/2023)
 ##### Initialization:
