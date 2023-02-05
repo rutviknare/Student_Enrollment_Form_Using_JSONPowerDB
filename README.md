@@ -9,7 +9,6 @@
 ---
 
 ### Benefits of using JsonPowerDB
-- Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
 - Server side Native NoSQL - best query performance.
 - It is low level (raw) form of data and is also human readable.
 - Simplest way to retrieve data in a JSON format.
@@ -17,7 +16,9 @@
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It helps developers in faster coding, in-turn reduces development cost.
 ---
+### ScreenShot of Output
 
+- Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.![Screenshot (401)](https://user-images.githubusercontent.com/90822009/216814552-bba23cb9-17bd-4809-88a1-07ec98463527.png)
 ### Release History
 #### v0.0.0 (05/02/2023)
 ##### Initialization:
