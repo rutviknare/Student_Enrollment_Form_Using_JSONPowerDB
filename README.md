@@ -19,10 +19,12 @@
 
 ### ScreenShot of Output
 ![Screenshot (401)](https://user-images.githubusercontent.com/90822009/216814640-a6618f0f-e9e4-4258-a4a6-559bb564fa73.png)
+![Screenshot (398)](https://user-images.githubusercontent.com/90822009/216814750-5ce3a792-b170-46db-b212-7ba93a505300.png)
 
 ### Release History
 #### v0.0.0 (05/02/2023)
 ##### Initialization:
+
 - [#1] Added basic designs of all planned HTML pages
 
 
